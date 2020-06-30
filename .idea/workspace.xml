@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d791f8a1-237d-4623-9084-e12dc2f6cef6" name="Default Changelist" comment="" />
+    <list default="true" id="d791f8a1-237d-4623-9084-e12dc2f6cef6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tasks/WhileCycle2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/Task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/WhileCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/WhileCycle.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -54,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593254314474</updated>
       <workItem from="1593254318845" duration="1575000" />
+      <workItem from="1593484716822" duration="1452000" />
     </task>
     <servers />
   </component>
@@ -61,6 +67,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593484805652">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1593484805652" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1593256045651">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -93,5 +103,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593256045652" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1593484716755">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1593484716755" />
   </component>
 </project>
