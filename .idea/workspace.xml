@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d791f8a1-237d-4623-9084-e12dc2f6cef6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tasks/WhileCycle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/CountTask.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/Task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/WhileCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/WhileCycle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonTasks" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonTasks" />
+      </console-settings>
+    </option>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -49,7 +56,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593254314474</updated>
       <workItem from="1593254318845" duration="1575000" />
-      <workItem from="1593484716822" duration="1452000" />
+      <workItem from="1593484716822" duration="4094000" />
     </task>
     <servers />
   </component>
@@ -103,6 +110,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593256045652" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1593498754633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593498754633" />
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1593484716755">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
